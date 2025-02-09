@@ -4,7 +4,7 @@ const birds = new Sprite({
         y: 160 //160
     },
 
-    imageSrc: '../img/birds.png',
+    imageSrc: 'https://thesamueldopke.github.io/Samurai-Fighters/img/birds.png',
     framesMax: 12,
     scale: 2,
     spriteHeight: 2,
