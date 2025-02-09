@@ -194,7 +194,7 @@ const player = new Fighter({
         x: velocity,
         y: velocity
     },
-    imageSrc: './img/samuraiMack/idle.png',
+    imageSrc: './img/samuraimack/idle.png',
     framesMax: 8,
     scale: 2.3,
     offset: {
