@@ -3,12 +3,14 @@
 
 [➡️ Jogue aqui!](https://thesamueldopke.github.io/Samurai-Fighters/)  
 
-## 🖼️ Preview  
-![Gameplay](link-para-um-gif-ou-imagem-do-jogo)  
+## 📖 About  
+Samurai Fighters is a **local 1v1 fighting game** where two players share the same keyboard to battle as samurai warriors. The game is developed using HTML5 Canvas and JavaScript, featuring fast-paced duels where the strongest samurai wins!  
 
-## 📖 Sobre  
-Samurai Fighters é um jogo de luta 2D desenvolvido com HTML5 Canvas e JavaScript. O jogador controla um samurai e deve derrotar inimigos em batalhas épicas.  
+## 🎮 Controls  
+- **Player 1 (WASD for movement, Space to attack)**  
+  - **WASD** - Move  
+  - **Space** - Attack  
 
-## 🎮 Controles  
-- **Setas/WASD** - Movimentação  
-- **Barra de espaço** - Ataque  
+- **Player 2 (Arrow keys for movement, Enter to attack)**  
+  - **Arrow keys** - Move  
+  - **Enter** - Attack  
